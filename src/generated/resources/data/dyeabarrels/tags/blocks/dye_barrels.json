@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "dyeabarrels:red_barrel",
+    "dyeabarrels:orange_barrel",
+    "dyeabarrels:yellow_barrel",
+    "dyeabarrels:lime_barrel",
+    "dyeabarrels:green_barrel",
+    "dyeabarrels:cyan_barrel",
+    "dyeabarrels:light_blue_barrel",
+    "dyeabarrels:blue_barrel",
+    "dyeabarrels:purple_barrel",
+    "dyeabarrels:magenta_barrel",
+    "dyeabarrels:pink_barrel",
+    "dyeabarrels:gray_barrel",
+    "dyeabarrels:light_gray_barrel",
+    "dyeabarrels:black_barrel",
+    "dyeabarrels:white_barrel",
+    "minecraft:barrel"
+  ]
+}

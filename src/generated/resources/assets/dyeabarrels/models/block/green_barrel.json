@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "dyeabarrels:block/green_barrel_top",
+    "bottom": "dyeabarrels:block/green_barrel_bottom",
+    "side": "dyeabarrels:block/green_barrel_side"
+  }
+}

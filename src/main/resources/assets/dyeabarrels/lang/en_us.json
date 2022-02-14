@@ -1,0 +1,19 @@
+{
+	"itemGroup.galaxiatab": "Dyeabarrels",
+
+	"block.dyeabarrels.red_barrel": "Red Barrel",
+	"block.dyeabarrels.orange_barrel": "Orange Barrel",
+	"block.dyeabarrels.yellow_barrel": "Yellow Barrel",
+	"block.dyeabarrels.lime_barrel": "Lime Barrel",
+	"block.dyeabarrels.green_barrel": "Green Barrel",
+	"block.dyeabarrels.cyan_barrel": "Cyan Barrel",
+	"block.dyeabarrels.blue_barrel": "Blue Barrel",
+	"block.dyeabarrels.light_blue_barrel": "Light Blue Barrel",
+	"block.dyeabarrels.purple_barrel": "Purple Barrel",
+	"block.dyeabarrels.pink_barrel": "Pink Barrel",
+	"block.dyeabarrels.magenta_barrel": "Magenta Barrel",
+	"block.dyeabarrels.gray_barrel": "Gray Barrel",
+	"block.dyeabarrels.light_gray_barrel": "Light Gray Barrel",
+	"block.dyeabarrels.black_barrel": "Black Barrel",
+	"block.dyeabarrels.white_barrel": "White Barrel"
+}

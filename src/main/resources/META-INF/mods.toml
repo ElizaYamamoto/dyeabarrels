@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="dyeabarrels"
+version="1.0.0"
+displayName="Dyeabarrels"
+credits="Created By Elizabeth Yamamoto"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/dyeabarrels"
+authors="elizayami"
+logoFile = "dyeabarrels.png"
+description = '''
+Adds barrels correlating to each dye color in the game!
+'''
+
+[[dependencies.dyeabarrels]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
